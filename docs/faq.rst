@@ -250,12 +250,12 @@ target your pull requests against the **develop** branch. For more
 instructions on doing this, please refer to our `Git and GitHub Guide`_
 .
 
-.. _Git and GitHub Guide: https://docs.moja.global/en/latest/DevelopmentSetup/git_and_github_guide.html
+.. _Git and GitHub Guide: https://docs.moja.global/en/master/FLINT/FLINTDevelopmentSetup/git_and_github_guide.html
 
 I use the Mac operating system. Is it possible to install FLINT?
 ================================================================
 
-Yes Absolutely! You can install FLINT on Mac using `our docker installation <https://docs.moja.global/en/latest/DevelopmentSetup/docker_installation.html>`_ .
+Yes Absolutely! You can install FLINT on Mac using `our docker installation <https://docs.moja.global/en/master/FLINT/FLINTPrerequisites/docker.html>`_ .
 
 What is the difference between FLINT and FLINT.example repositories on moja global GitHub?
 ==========================================================================================
@@ -275,13 +275,13 @@ to add ``Desktop Development with C++`` workload while undergoing
 `Visual Studio installation process`_ mentioned in our prerequisites
 section.
 
-.. _Visual Studio installation process: https://docs.moja.global/en/latest/prerequisites/visual_studio.html#for-visual-studio-2019
+.. _Visual Studio installation process: https://docs.moja.global/en/master/FLINT/FLINTPrerequisites/visual_studio.html#for-visual-studio-2019
 
 I am trying to setup the Docker installation for FLINT but am running into errors. What am I doing wrong?
 =========================================================================================================
 
 In case of the Docker installation for FLINT, it might be possible that
-the Docker hardware requirements are not met. Please ensure that atleast
+the Docker hardware requirements are not met. Please ensure that at least
 4 CPU cores & 4 GB of RAM has been allotted to the Docker machine.
 
 I have tried the above but my errors persist. What should I do?
@@ -356,10 +356,10 @@ configuration, and hence the tool for every module.
 .. _FLINT UI: https://docs.moja.global/projects/flint-ui/en/latest/index.html
 
 FLINT.Reporting
---------
+---------------
 
 What is FLINT.Reporting?
-=================
+========================
 
 Reporting Tool functionality for classifying FLINT output results into
 standard reporting formats.
